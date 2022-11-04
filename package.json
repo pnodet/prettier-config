@@ -1,0 +1,28 @@
+{
+	"name": "@pnxdxt/prettier-config",
+	"version": "0.2.0",
+	"description": "My prettier config",
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"LICENSE",
+		"README.md",
+		".prettierrc.json",
+		"index.js"
+	],
+	"author": {
+		"name": "pnxdxt",
+		"email": "pnxdxt@gmail.com",
+		"url": "https://pnxdxt.com"
+	},
+	"repository": "https://github.com/pnxdxt/prettier-config",
+	"keywords": [
+		"prettier",
+		"prettier-config",
+		"eslint",
+		"eslint-config"
+	],
+	"dependencies": {
+		"prettier": "^2.7.1"
+	}
+}
